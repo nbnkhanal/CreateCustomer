@@ -55,9 +55,9 @@ public class JPACreateRecord {
 
 	private static CustomerEntity createCustomerEntity() {
 		CustomerEntity entity = new CustomerEntity();
-		entity.setFirstName("James");
-		entity.setLastName("Bond");
-		entity.setSsn("333-22-4444");
+		entity.setFirstName("Bruce");
+		entity.setLastName("Wayne");
+		entity.setSsn("000-22-4444");
 		return entity;
 	}
 	
