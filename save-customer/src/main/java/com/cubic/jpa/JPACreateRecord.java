@@ -60,4 +60,7 @@ public class JPACreateRecord {
 		entity.setSsn("333-22-4444");
 		return entity;
 	}
+	
+
+	
 }
